@@ -15,9 +15,8 @@ Despite these amazing technological advancements applying these solutions to bus
 
 Before i proceed i will like to mention the following groups for the fantastic work they are doing and sharing which have made these notebooks and tutorials possible:
 
-Please review these amazing sources of information and subscribe to their channels/sources.
+Please review these amazing sources of information.
  - [Hugging Face Team](https://huggingface.co/)
- - Abhishek Thakur for his amazing [Youtube videos](https://www.youtube.com/user/abhisheksvnit)
 
 ### Directory Structure
 
