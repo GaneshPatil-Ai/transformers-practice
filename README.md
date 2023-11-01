@@ -1,16 +1,5 @@
 ﻿# <h1 align="center">PyTorch Transformers Tutorials </h1>
 
-<p align="center">
-<img alt="Transformer Tutorials" src="meta/banner.png">
-</p>
-
-<p align="center">
-<a href="https://github.com/abhimishra91/transformers-tutorials/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/abhimishra91/transformers-tutorials"></a>
-<a href="https://github.com/abhimishra91/transformers-tutorials/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/abhimishra91/transformers-tutorials"></a>
-<a href="https://github.com/abhimishra91/transformers-tutorials/stargazers"><img alt="Github Stars" src="https://img.shields.io/github/stars/abhimishra91/transformers-tutorials"></a>
-<a href="https://github.com/abhimishra91/transformers-tutorials/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/abhimishra91/transformers-tutorials"></a>
-
-
 ### Introduction
 
 The field of **NLP** was revolutionized in the year 2018 by introduction of **BERT** and his **Transformer** friends(RoBerta, XLM etc.).
@@ -29,19 +18,6 @@ Before i proceed i will like to mention the following groups for the fantastic w
 Please review these amazing sources of information and subscribe to their channels/sources.
  - [Hugging Face Team](https://huggingface.co/)
  - Abhishek Thakur for his amazing [Youtube videos](https://www.youtube.com/user/abhisheksvnit)
-
-The problem statements that i will be working with are:
-
-| Notebook |Github Link |Colab Link|Kaggle Kernel|
-|--|--|--|--|
-|Text Classification: Multi-Class| [Github](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_multiclass_classification.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhimishra91/transformers-tutorials/blob/master/transformers_multiclass_classification.ipynb)|[Kaggle](https://www.kaggle.com/eggwhites2705/transformers-multiclass-classification-ipynb)|
-|Text Classification: Multi-Label| [Github](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_multi_label_classification.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhimishra91/transformers-tutorials/blob/master/transformers_multi_label_classification.ipynb)|[Kaggle](https://www.kaggle.com/eggwhites2705/transformers-multi-label-classification)|
-|Sentiment Classification **with Experiment Tracking in [WandB](https://app.wandb.ai/abhimishra-91/transformers_tutorials_sentiment/runs/1zwn4gbg?workspace=user-abhimishra-91)!**|[Github](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_sentiment_wandb.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhimishra91/transformers-tutorials/blob/master/transformers_sentiment_wandb.ipynb)||
-|Named Entity Recognition: **with TPU processing!**|[Github](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_ner.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhimishra91/transformers-tutorials/blob/master/transformers_ner.ipynb)|[Kaggle](https://www.kaggle.com/eggwhites2705/transformers-ner)|
-|Question Answering||||
-|Summary Writing: **with Experiment Tracking in [WandB](https://app.wandb.ai/abhimishra-91/transformers_tutorials_summarization?workspace=user-abhimishra-91)!**|[Github](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_summarization_wandb.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhimishra91/transformers-tutorials/blob/master/transformers_summarization_wandb.ipynb)|[Kaggle](https://www.kaggle.com/eggwhites2705/transformers-summarization-t5/output)|
-
-
 
 ### Directory Structure
 
